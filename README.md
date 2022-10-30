@@ -4,3 +4,7 @@ Open Repository for Developers to add templates for Azure ARM templates and Powe
 ![Hacktoberfest-2022](https://raw.githubusercontent.com/nandinidurgesh/Azure-Hacktoberfest-2022/main/.github/logo.png)
 
 Please add your name and details in the contributing.md file.
+
+Contributors
+
+  <img src="https://contrib.rocks/image?repo=nandinidurgesh/Azure-Hacktoberfest-2022" />
